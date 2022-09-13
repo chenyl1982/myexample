@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.query_hints=true,email_client=true,hasWorkflow=true,live_feed=true,query_hints=true" audit="true" db_object_id="68b7bee345910110a86630cf9552f3c2" extends="task" label="Incident" max_length="40" name="incident" text_index="true" type="collection">
+        <element default="none site" display="true" label="siteid" max_length="500" name="x_826634_my_exampl_siteid" type="string"/>
+    </element>
+</database>

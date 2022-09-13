@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>New (Site Info)</name>
+        <parameter_screen/>
+        <query_condition table="x_826634_my_exampl_site_info">sys_idSTARTSWITH{{Site Info sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{Site Info sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 01:37:25</sys_created_on>
+        <sys_id>b4b7ad179731d11088b0732e6253afcd</sys_id>
+        <sys_name>New (Site Info)</sys_name>
+        <sys_package display_value="my example" source="x_826634_my_exampl">a8a6ed939731d11088b0732e6253afde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my example">a8a6ed939731d11088b0732e6253afde</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_b4b7ad179731d11088b0732e6253afcd</sys_update_name>
+        <table>x_826634_my_exampl_site_info</table>
+        <template>address={{Site Info address}}^maintainer={{Site Info maintainer}}^number={{Site Info number}}^siteid={{Site Info siteid}}^sitename={{Site Info sitename}}^EQ</template>
+        <type>new</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=b4b7ad179731d11088b0732e6253afcd"/>
+</record_update>
