@@ -15,7 +15,7 @@
       "type" : "TRANSLATION_LITERAL",
       "value" : {
         "code" : null,
-        "message" : "Label",
+        "message" : "display comfrom",
         "comment" : ""
       }
     },
@@ -23,7 +23,7 @@
       "type" : "TRANSLATION_LITERAL",
       "value" : {
         "code" : null,
-        "message" : "base page from my apply",
+        "message" : "com from example",
         "comment" : ""
       }
     },
@@ -77,10 +77,10 @@
         <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[ {
-  "message" : "Label",
+  "message" : "com from example",
   "comment" : ""
 }, {
-  "message" : "base page from my apply",
+  "message" : "display comfrom",
   "comment" : ""
 } ]</required_translations>
         <root_component/>
