@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="my example">2cb7ad179731d11088b0732e6253af78</applet_launcher>
+        <icon display_value="Home my example">20b7ad179731d11088b0732e6253af7a</icon>
+        <label>my example</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 01:37:24</sys_created_on>
+        <sys_id>ecb7ad179731d11088b0732e6253af79</sys_id>
+        <sys_name>my example</sys_name>
+        <sys_package display_value="my example" source="x_826634_my_exampl">a8a6ed939731d11088b0732e6253afde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my example">a8a6ed939731d11088b0732e6253afde</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_ecb7ad179731d11088b0732e6253af79</sys_update_name>
+    </sys_sg_applet_launcher_tab>
+</record_update>

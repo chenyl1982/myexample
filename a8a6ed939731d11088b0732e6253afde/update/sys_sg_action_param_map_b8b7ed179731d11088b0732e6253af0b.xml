@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Site Info)">34b7ed179731d11088b0732e6253af06</button>
+        <item_parameter display_value="Site Info sitename">f0b7ed179731d11088b0732e6253af05</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 01:37:26</sys_created_on>
+        <sys_id>b8b7ed179731d11088b0732e6253af0b</sys_id>
+        <sys_name>f0b7ed179731d11088b0732e6253af05</sys_name>
+        <sys_package display_value="my example" source="x_826634_my_exampl">a8a6ed939731d11088b0732e6253afde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my example">a8a6ed939731d11088b0732e6253afde</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_b8b7ed179731d11088b0732e6253af0b</sys_update_name>
+        <ui_parameter display_value="Sitename">f4b7ed179731d11088b0732e6253af09</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
