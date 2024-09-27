@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Site Info)">bcb7ad179731d11088b0732e6253aff6</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Site Info)</name>
+        <order/>
+        <parent>38b7ad179731d11088b0732e6253afc0</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 01:37:25</sys_created_on>
+        <sys_id>38b7ad179731d11088b0732e6253affe</sys_id>
+        <sys_name>New (Site Info)</sys_name>
+        <sys_package display_value="my example" source="x_826634_my_exampl">a8a6ed939731d11088b0732e6253afde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my example">a8a6ed939731d11088b0732e6253afde</sys_scope>
+        <sys_update_name>sys_sg_button_instance_38b7ad179731d11088b0732e6253affe</sys_update_name>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=38b7ad179731d11088b0732e6253affe"/>
+</record_update>
